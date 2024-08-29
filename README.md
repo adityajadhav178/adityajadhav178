@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an enthusiastic third-year engineering student passionate about software development, problem-solving, and community service. Here's a bit about me:
 
-- 🔭 I’m currently working on a MERN stack project called [BikeBuddy](https://github.com/adityajadhav178/BikeBuddy), designed for COEP Hostel students to rent and share bikes securely and conveniently.
+- 🔭 I’m currently working on a MERN stack project called BikeBuddy, designed for COEP Hostel students to rent and share bikes securely and conveniently.
 - 🌱 I’m currently learning advanced algorithms, particularly focusing on graph search algorithms like A* and Best-First Search, along with shell scripting for various tasks.
 - 👯 I’m looking to collaborate on open-source projects related to web development, data structures, and algorithms.
 - 🤔 I’m looking for help with optimizing algorithms, especially when it comes to handling large datasets efficiently.
